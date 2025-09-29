@@ -11,7 +11,7 @@ const Index = () => {
             <div className="flex items-center gap-2">
               <Newspaper className="w-8 h-8 text-primary" />
               <h1 className="text-2xl font-bold bg-gradient-hero bg-clip-text text-transparent">
-                NewsFlow
+                NewsNotify
               </h1>
             </div>
             <div className="text-sm text-muted-foreground">
@@ -73,7 +73,7 @@ const Index = () => {
       <footer className="bg-card/30 border-t border-border/50 py-8 mt-16">
         <div className="container mx-auto px-4 text-center">
           <p className="text-muted-foreground">
-            © 2024 NewsFlow. Bringing you the news that matters, when it matters.
+            © 2024 NewsNotify. Bringing you the news that matters, when it matters.
           </p>
         </div>
       </footer>
